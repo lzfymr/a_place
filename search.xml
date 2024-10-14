@@ -19,14 +19,27 @@
 ]]></content>
   </entry>
   <entry>
-    <title>第一篇文章</title>
-    <url>/2024/09/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="yepe"><a href="#yepe" class="headerlink" title="yepe~"></a>yepe~</h1>]]></content>
+    <title>正式介绍</title>
+    <url>/2024/10/14/%E6%AD%A3%E5%BC%8F%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h1 id="迟到的介绍"><a href="#迟到的介绍" class="headerlink" title="迟到的介绍"></a>迟到的介绍</h1><p>这个博客用来记录的是个人的相关经验…….大概。</p>
+<p>本来想做的是一个个人网站，用来存储和分类自己的资料，</p>
+<p>但是后来发现hexo的博客存文件好像不行，<del>也有可能是我菜</del></p>
+<p>而且自己的东西还是太多了，收藏夹也没有好好收拾，整个空间就像是缓存一样，想到哪存到哪</p>
+<p><del>而且hexo还不熟练救救我呃啊啊啊啊啊啊</del></p>
+<p><del>md文件也玩不转呃啊啊啊啊啊啊啊</del></p>
+<p>总之很悲伤，站点估摸着会长草到一个非——常离谱的地步</p>
+<p>但是我还是会试着维护</p>
+<p><del>然而根本没有什么好记录的</del></p>
+<p>总之！以上<del>yisang</del></p>
+<h2 id="关于传文件的事"><a href="#关于传文件的事" class="headerlink" title="关于传文件的事"></a>关于传文件的事</h2><p>还有个库在<a href="https://github.com/lzfymr/lzfymr.github.io">这里</a>，由GitHub page托管，访问网址应该是<a href="https://lzfymr.github.io/">这个</a>。</p>
+<p>打算研究一下怎么在这个博客上传文件，希望可以。</p>
+<p>祝好！</p>
+]]></content>
       <categories>
-        <category>分类1</category>
+        <category>本站介绍</category>
       </categories>
       <tags>
-        <tag>type1</tag>
+        <tag>站点相关</tag>
       </tags>
   </entry>
   <entry>
@@ -38,6 +51,17 @@
       </categories>
       <tags>
         <tag>type2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一篇文章</title>
+    <url>/2024/09/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="yepe"><a href="#yepe" class="headerlink" title="yepe~"></a>yepe~</h1>]]></content>
+      <categories>
+        <category>分类1</category>
+      </categories>
+      <tags>
+        <tag>type1</tag>
       </tags>
   </entry>
 </search>

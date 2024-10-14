@@ -43,17 +43,6 @@
       </tags>
   </entry>
   <entry>
-    <title>第二篇文章</title>
-    <url>/2024/09/24/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="yepe-yepe"><a href="#yepe-yepe" class="headerlink" title="yepe yepe"></a>yepe yepe</h1>]]></content>
-      <categories>
-        <category>分类1</category>
-      </categories>
-      <tags>
-        <tag>type2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第一篇文章</title>
     <url>/2024/09/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<h1 id="yepe"><a href="#yepe" class="headerlink" title="yepe~"></a>yepe~</h1>]]></content>
@@ -62,6 +51,17 @@
       </categories>
       <tags>
         <tag>type1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二篇文章</title>
+    <url>/2024/09/24/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="yepe-yepe"><a href="#yepe-yepe" class="headerlink" title="yepe yepe"></a>yepe yepe</h1>]]></content>
+      <categories>
+        <category>分类1</category>
+      </categories>
+      <tags>
+        <tag>type2</tag>
       </tags>
   </entry>
 </search>

@@ -64,4 +64,16 @@
         <tag>type2</tag>
       </tags>
   </entry>
+  <entry>
+    <title>处理了git......</title>
+    <url>/2024/10/29/%E5%A4%84%E7%90%86%E4%BA%86git/</url>
+    <content><![CDATA[<p>处理了一下git push的问题……<br>hexo和git这两个东西都有提交操作，不明不白的。<br>先这样试试。</p>
+]]></content>
+      <categories>
+        <category>本站介绍</category>
+      </categories>
+      <tags>
+        <tag>站点相关</tag>
+      </tags>
+  </entry>
 </search>
